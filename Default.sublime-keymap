@@ -1,0 +1,8 @@
+[
+	{
+		"keys": ["ctrl+tab"], "command": "tab_align_last"
+	},
+	{
+		"keys": ["ctrl+alt+tab"], "command": "tab_align_first"
+	}
+]
